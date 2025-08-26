@@ -2,7 +2,7 @@ read -p "Enter the number: " n
 
 if ! [[ "$n" =~ ^[0-9]+$ ]]; then
     echo "Error: Please enter a valid positive number"
-    exit 1
+    exit 1  
 fi
 
 if [ "$n" -lt 0 ]; then
