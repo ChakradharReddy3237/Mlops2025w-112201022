@@ -1,0 +1,40 @@
+.venv/
+__pycache__/
+.mypy_cache/
+.ruff_cache/
+*.pyc
+*.pyo
+*.db
+*.DS_Store
+
+# Data and outputs
+data/
+crud_benchmark.png
+crud_benchmark_results.csv
+Assignment 4.pdf
+
+# Databases / local state
+*.sqlite
+*.db*
+
+# Logs / coverage
+*.log
+.coverage
+coverage.xml
+htmlcov/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Packaging / build
+dist/
+build/
+*.egg-info/
+.eggs/
+__pypackages__/
+
+# Caches
+.cache/
+
+# Local configs
+.env

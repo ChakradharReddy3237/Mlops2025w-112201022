@@ -1,0 +1,30 @@
+[project]
+name = "mlops-assignment-4-uv"
+version = "0.1.0"
+description = "Assignment 4 (uv-based): SQLite + MongoDB data modeling and CRUD benchmarking"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  { name = "Student", email = "student@example.com" }
+]
+dependencies = [
+  "pandas>=2.0",
+  "numpy>=1.24",
+  "matplotlib>=3.7",
+  "pymongo>=4.4",
+  "openpyxl>=3.1"
+]
+
+[project.optional-dependencies]
+dev = [
+  "ruff>=0.6",
+  "mypy>=1.10"
+]
+
+[tool.ruff]
+line-length = 100
+
+[tool.mypy]
+python_version = "3.10"
+warn_unused_ignores = true
+ignore_missing_imports = true
