@@ -1,0 +1,1 @@
+{"_runtime": 2390.475776255, "_timestamp": 1760372880.0347772, "_step": 0, "OrderA/cifar100/train_loss": 1.6756391283226013, "OrderA/cifar100/val_loss": 1.280322668647766, "OrderA/cifar100/lr": 0.005, "OrderA/cifar100/epoch": 1, "OrderA/cifar100/train_acc": 0.53388, "OrderA/cifar100/val_acc": 0.6287}

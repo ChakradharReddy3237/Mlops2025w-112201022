@@ -1,0 +1,29 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "wandb-whoami",
+			"type": "shell",
+			"command": "/home/chakri/Documents/S-7/MLoPs/Mlops2025w-112201022/Assignments/Assigment-5/.venv/bin/python",
+			"args": [
+				"-m",
+				"wandb",
+				"whoami"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "wandb-login-status",
+			"type": "shell",
+			"command": "/home/chakri/Documents/S-7/MLoPs/Mlops2025w-112201022/Assignments/Assigment-5/.venv/bin/python",
+			"args": [
+				"- <<'PY'\nimport os\nprint('WANDB_MODE=', os.environ.get('WANDB_MODE'))\nprint('WANDB_PROJECT=', os.environ.get('WANDB_PROJECT'))\nprint('WANDB_ENTITY=', os.environ.get('WANDB_ENTITY'))\nprint('WANDB_API_KEY set? ', 'WANDB_API_KEY' in os.environ)\nPY"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}

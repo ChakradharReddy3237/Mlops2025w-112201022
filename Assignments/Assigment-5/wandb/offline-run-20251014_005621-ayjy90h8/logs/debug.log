@@ -1,0 +1,7 @@
+2025-10-14 00:56:21,101 INFO    MainThread:277336 [wandb_init.py:setup_run_log_directory():705] Logging user logs to /home/chakri/Documents/S-7/MLoPs/Mlops2025w-112201022/Assignments/Assigment-5/wandb/offline-run-20251014_005621-ayjy90h8/logs/debug.log
+2025-10-14 00:56:21,101 INFO    MainThread:277336 [wandb_init.py:setup_run_log_directory():706] Logging internal logs to /home/chakri/Documents/S-7/MLoPs/Mlops2025w-112201022/Assignments/Assigment-5/wandb/offline-run-20251014_005621-ayjy90h8/logs/debug-internal.log
+2025-10-14 00:56:21,101 INFO    MainThread:277336 [wandb_init.py:init():832] calling init triggers
+2025-10-14 00:56:21,101 INFO    MainThread:277336 [wandb_init.py:init():837] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-10-14 00:56:21,101 INFO    MainThread:277336 [wandb_init.py:init():880] starting backend
+2025-10-14 00:56:21,101 INFO    MainThread:277336 [wandb_init.py:init():883] sending inform_init request

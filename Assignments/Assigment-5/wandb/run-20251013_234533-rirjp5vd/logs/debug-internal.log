@@ -1,0 +1,2 @@
+{"time":"2025-10-13T23:45:33.538419636+05:30","level":"INFO","msg":"stream: starting","core version":"0.22.2"}
+{"time":"2025-10-13T23:45:33.538532033+05:30","level":"ERROR+4","msg":"stream_init: failed to fetch credentials: api: couldn't get API key: settings: failed to get API key from netrc: open /home/chakri/.netrc: no such file or directory"}
