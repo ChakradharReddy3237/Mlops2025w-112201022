@@ -1,0 +1,40 @@
+{
+  "os": "Linux-6.14.0-33-generic-x86_64-with-glibc2.39",
+  "python": "CPython 3.12.3",
+  "startedAt": "2025-10-21T16:40:24.944638Z",
+  "program": "/home/chakri/Documents/S-7/MLoPs/Mlops2025w-112201022/CLASS/Week-8/wandb_cloud_deploy_lab_detailed.ipynb",
+  "codePath": "CLASS/Week-8/wandb_cloud_deploy_lab_detailed.ipynb",
+  "codePathLocal": "wandb_cloud_deploy_lab_detailed.ipynb",
+  "git": {
+    "remote": "git@github.com:ChakradharReddy3237/Mlops2025w-112201022.git",
+    "commit": "04e013dc35523b816c75cc0fe3140cd19b622116"
+  },
+  "email": "112201022@smail.iitpkd.ac.in",
+  "root": "/home/chakri/Documents/S-7/MLoPs/Mlops2025w-112201022/CLASS/Week-8",
+  "host": "dell",
+  "executable": "/home/chakri/Documents/Projects/Chicken-Disease-Classification/chicken/bin/python",
+  "cpu_count": 14,
+  "cpu_count_logical": 20,
+  "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "231931916288",
+      "used": "202671362048"
+    }
+  },
+  "memory": {
+    "total": "16436445184"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "memoryTotal": "4294967296",
+      "cudaCores": 2048,
+      "architecture": "Ampere",
+      "uuid": "GPU-54341311-7b04-d6fc-2081-63860b058fb3"
+    }
+  ],
+  "cudaVersion": "12.2",
+  "writerId": "oqys2uedou2ddjiecskx13fazmolq2ub"
+}

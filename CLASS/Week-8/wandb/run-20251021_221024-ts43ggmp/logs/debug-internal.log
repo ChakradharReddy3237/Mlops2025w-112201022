@@ -1,0 +1,12 @@
+{"time":"2025-10-21T22:10:24.947663263+05:30","level":"INFO","msg":"stream: starting","core version":"0.22.2"}
+{"time":"2025-10-21T22:10:25.442766392+05:30","level":"INFO","msg":"stream: created new stream","id":"ts43ggmp"}
+{"time":"2025-10-21T22:10:25.442808681+05:30","level":"INFO","msg":"handler: started","stream_id":"ts43ggmp"}
+{"time":"2025-10-21T22:10:25.442843877+05:30","level":"INFO","msg":"stream: started","id":"ts43ggmp"}
+{"time":"2025-10-21T22:10:25.442846893+05:30","level":"INFO","msg":"writer: started","stream_id":"ts43ggmp"}
+{"time":"2025-10-21T22:10:25.442897475+05:30","level":"INFO","msg":"sender: started","stream_id":"ts43ggmp"}
+{"time":"2025-10-21T22:10:27.903474254+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run metadata","runtime_seconds":2.094456347}],"total_operations":1}}
+{"time":"2025-10-21T22:10:29.76422183+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-21T22:10:30.348772938+05:30","level":"INFO","msg":"stream: closing","id":"ts43ggmp"}
+{"time":"2025-10-21T22:10:30.348786735+05:30","level":"INFO","msg":"handler: closed","stream_id":"ts43ggmp"}
+{"time":"2025-10-21T22:10:30.348822555+05:30","level":"INFO","msg":"sender: closed","stream_id":"ts43ggmp"}
+{"time":"2025-10-21T22:10:30.348829115+05:30","level":"INFO","msg":"stream: closed","id":"ts43ggmp"}

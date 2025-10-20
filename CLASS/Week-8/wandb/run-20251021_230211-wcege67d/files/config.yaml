@@ -1,0 +1,56 @@
+_wandb:
+    value:
+        cli_version: 0.22.2
+        e:
+            6y4k1e2ocqd9cp14uxuoo5e5hrake9xv:
+                codePath: CLASS/Week-8/wandb_cloud_deploy_lab_detailed.ipynb
+                codePathLocal: wandb_cloud_deploy_lab_detailed.ipynb
+                cpu_count: 14
+                cpu_count_logical: 20
+                cudaVersion: "12.2"
+                disk:
+                    /:
+                        total: "231931916288"
+                        used: "203662999552"
+                email: 112201022@smail.iitpkd.ac.in
+                executable: /home/chakri/Documents/Projects/Chicken-Disease-Classification/chicken/bin/python
+                git:
+                    commit: 04e013dc35523b816c75cc0fe3140cd19b622116
+                    remote: git@github.com:ChakradharReddy3237/Mlops2025w-112201022.git
+                gpu: NVIDIA GeForce RTX 3050 Laptop GPU
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ampere
+                      cudaCores: 2048
+                      memoryTotal: "4294967296"
+                      name: NVIDIA GeForce RTX 3050 Laptop GPU
+                      uuid: GPU-54341311-7b04-d6fc-2081-63860b058fb3
+                host: dell
+                memory:
+                    total: "16436445184"
+                os: Linux-6.14.0-33-generic-x86_64-with-glibc2.39
+                program: /home/chakri/Documents/S-7/MLoPs/Mlops2025w-112201022/CLASS/Week-8/wandb_cloud_deploy_lab_detailed.ipynb
+                python: CPython 3.12.3
+                root: /home/chakri/Documents/S-7/MLoPs/Mlops2025w-112201022/CLASS/Week-8
+                startedAt: "2025-10-21T17:32:11.738680Z"
+                writerId: 6y4k1e2ocqd9cp14uxuoo5e5hrake9xv
+        m: []
+        python_version: 3.12.3
+        t:
+            "1":
+                - 5
+                - 53
+                - 105
+            "2":
+                - 5
+                - 53
+                - 105
+            "3":
+                - 2
+            "4": 3.12.3
+            "5": 0.22.2
+            "8":
+                - 1
+                - 2
+            "12": 0.22.2
+            "13": linux-x86_64
