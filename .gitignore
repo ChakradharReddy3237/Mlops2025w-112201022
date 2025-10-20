@@ -24,6 +24,7 @@ share/python-wheels/
 MANIFEST
 
 # Virtual Environment
+.venv/
 venv/
 env/
 ENV/
@@ -123,3 +124,7 @@ dmypy.json
 gcp_deploy_commands.txt
 *.md
 !README.md
+
+# HuggingFace Space deployment temp folder
+hf_space/
+outputs/
