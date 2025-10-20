@@ -44,6 +44,17 @@ venv.bak/
 model.pkl
 models/
 
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+*token*
+*secret*
+credentials.json
+config.json
+
 # W&B (Weights & Biases)
 wandb/
 artifacts/
